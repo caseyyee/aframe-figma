@@ -1,0 +1,15 @@
+{
+  "name": "aframe-figma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx budo index.js --live"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^0.8.2",
+    "budo": "^11.5.0"
+  }
+}
